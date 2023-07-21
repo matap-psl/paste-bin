@@ -1,0 +1,20 @@
+{
+  "id": "1",
+  "profile_pic": "https://robohash.org/stefan-one-2",
+  "name": "Hembo Tingor",
+  "designation": "Web Developer",
+  "info": {
+    "email": "rntng@gmail.com",
+    "phone": "+91-9899977876"
+  },
+  "projects": [
+    {
+      "name": "Sam Disuja",
+      "category": "Recent"
+    },
+    {
+      "name": "Most Viewed",
+      "category": "Dinoter husainm"
+    }
+  ]
+}
